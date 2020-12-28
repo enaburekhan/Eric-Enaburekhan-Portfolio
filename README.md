@@ -1,0 +1,3 @@
+# My Portfolio
+This is my portfolio which show case my software development skills set and the jobs I have done so far
+Still work in progress...
